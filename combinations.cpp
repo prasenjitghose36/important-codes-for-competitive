@@ -2,7 +2,7 @@
 using namespace std;
  
 #define MOD 1000000007
-#define MAX 1000000
+#define MAX 1000000 // maximum value of n
   
 typedef long long int lli;
  
